@@ -1,0 +1,6 @@
+#!/bin/sh
+
+
+# generate the docs to keep them in sync.
+
+bash generate_docs.sh
