@@ -287,6 +287,8 @@
   (lock_assembly false)
   (device 73c7e6b1-8bb3-436e-95ce-e4b86090a2b6
    (variant 2b3aaf4c-8413-4916-9cd6-11a7e3c383e7)
+   (part "55932-0810" (manufacturer "Molex")
+   )
   )
   (signal 43d74d3b-b94d-4055-b40e-e278e4bbc311 (net d7102fd1-5c0e-4316-91be-acd95363f109))
   (signal 4aaa40bb-bcba-4bf8-b159-da8b301450bf (net 6a50787a-9835-4e0b-beec-720f69a4bc15))
@@ -380,6 +382,8 @@
   (lock_assembly false)
   (device 1a4d2a33-5306-45b5-acf7-d09ad0b1ece7
    (variant 2b3aaf4c-8413-4916-9cd6-11a7e3c383e7)
+   (part "URF2424P-6WR3" (manufacturer "Mornsun America, LLC")
+   )
   )
   (signal 12666bcd-8436-4db7-a0aa-c192e008631b (net 5f7682c7-acd7-43e1-a2a7-d0edb0f9c3c0))
   (signal 6c94c49b-188e-47cf-b2a4-8392b48e0a5e (net 5b7e3853-5918-40f2-9305-e785b28fd968))
@@ -559,6 +563,8 @@
   (lock_assembly false)
   (device a60a981e-010e-4374-ae18-9682ad8b52d0
    (variant 2b3aaf4c-8413-4916-9cd6-11a7e3c383e7)
+   (part "55932-0610" (manufacturer "Molex")
+   )
   )
   (signal 1557a22d-e641-490e-9ce0-af5eb617e0b0 (net b764857c-ae4a-4c31-a8ed-16eae4ff8cf5))
   (signal 244cc93d-4d2f-49da-9a54-cee0722a28e8 (net abfbbe91-5610-417d-a6d3-60bb4ec48250))
@@ -632,6 +638,8 @@
   (lock_assembly false)
   (device 5bde0bcb-a3f0-476a-a178-41e7ca103750
    (variant 2b3aaf4c-8413-4916-9cd6-11a7e3c383e7)
+   (part "55932-0210" (manufacturer "Molex")
+   )
   )
   (signal 5290bf34-05c9-4ef0-a076-800d41bc791b (net 2bf5f1c3-53d5-4033-bc02-9e2aa3a60f42))
   (signal 79a02ad1-1327-4723-8201-eb48cff97ce3 (net f4cbb776-8568-4653-ad1a-08447e4cc654))
@@ -703,6 +711,8 @@
   (lock_assembly false)
   (device 73c7e6b1-8bb3-436e-95ce-e4b86090a2b6
    (variant 2b3aaf4c-8413-4916-9cd6-11a7e3c383e7)
+   (part "55932-0810" (manufacturer "Molex")
+   )
   )
   (signal 43d74d3b-b94d-4055-b40e-e278e4bbc311 (net d7102fd1-5c0e-4316-91be-acd95363f109))
   (signal 4aaa40bb-bcba-4bf8-b159-da8b301450bf (net 908c1372-17bf-49f9-8f17-d6446a831f54))
@@ -720,6 +730,8 @@
   (lock_assembly false)
   (device 4303bfc1-7e4d-48be-b507-587d6829856e
    (variant 2b3aaf4c-8413-4916-9cd6-11a7e3c383e7)
+   (part "43045-0400" (manufacturer "Molex")
+   )
   )
   (signal 4fc27ba6-b37b-4884-878c-2bfb376a7359 (net 5f7682c7-acd7-43e1-a2a7-d0edb0f9c3c0))
   (signal 7f719a71-0390-4e3e-936c-93d8453992ab (net 5b7e3853-5918-40f2-9305-e785b28fd968))
